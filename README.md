@@ -1,6 +1,4 @@
-# Form-Validator-in-JavaScript
-
-## Form Validator (Intro Project)
+# Form Validation in JavaScript - For Absolute Beginners
 
 Simple client side form validation. Check required, length, email and password match
 
